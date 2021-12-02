@@ -5,62 +5,49 @@ using UnityEngine;
 public class Moving : MonoBehaviour
 {
     
-    public float speed = 15f;
-    public float turnSpeed = 50f;
-    public GameObject dron;
+    public float speed = 5f;
 
+    private void Start()
+    {
+         
+    }
+ 
+    // Update is called once per frame
     void Update()
     {
         GetInput();
-        Stabilized();
-        
     }
 
     private void GetInput()
     {
         if (Input.GetKey(KeyCode.W))
         {
-            transform.localPosition += transform.up * speed * Time.deltaTime;
+            transform.localPosition += transform.forward * speed * Time.deltaTime;
         }
 
         if (Input.GetKey(KeyCode.S))
         {
-            transform.localPosition += -transform.up * speed * Time.deltaTime;
+            transform.localPosition += -transform.forward * speed * Time.deltaTime;
         }
 
         if (Input.GetKey(KeyCode.A))
         {
-            transform.Rotate(Vector3.up, - turnSpeed * Time.deltaTime);
+            transform.localPosition += -transform.right * speed * Time.deltaTime;
         }
 
         if (Input.GetKey(KeyCode.D))
         {
-            transform.Rotate(Vector3.up, turnSpeed * Time.deltaTime);
-        }
-
-        if (Input.GetKey(KeyCode.UpArrow))
-        {
-            transform.localPosition += transform.forward * speed * Time.deltaTime;
-        }
-
-        if (Input.GetKey(KeyCode.DownArrow))
-        {
-            transform.localPosition += -transform.forward * speed * Time.deltaTime;
-        }
-
-        if (Input.GetKey(KeyCode.LeftArrow))
-        {
-            transform.localPosition += -transform.right * speed * Time.deltaTime;
-        }
-
-        if (Input.GetKey(KeyCode.RightArrow))
-        {
             transform.localPosition += transform.right * speed * Time.deltaTime;
         }
-    }
 
-    private void Stabilized()
-    {
-        dron.transform.eulerAngles = new Vector3(0, dron.transform.eulerAngles.y, 0);
+        if (Input.GetKey(KeyCode.Space))
+        {
+            transform.localPosition += transform.up * speed * Time.deltaTime;
+        }
+
+        if (Input.GetKey(KeyCode.LeftControl))
+        {
+            transform.localPosition += -transform.up * speed * Time.deltaTime;
+        }
     }
 }
