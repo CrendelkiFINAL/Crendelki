@@ -6,7 +6,7 @@ public class Moving : MonoBehaviour
 {
     
     public float speed = 5f;
-    public float turnSpeed = 200f;
+    public float turnSpeed = 5f;
 
     void Update()
     {
