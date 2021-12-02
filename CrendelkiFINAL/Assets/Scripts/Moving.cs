@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Moving : MonoBehaviour
 {
-    
-    public float speed = 5f;
-    public float turnSpeed = 5f;
+
+    public float speed = 15f;
+    public float turnSpeed = 50f;
 
     void Update()
     {
@@ -22,13 +22,12 @@ public class Moving : MonoBehaviour
 
         if (Input.GetKey(KeyCode.S))
         {
-            transform.localPosition += -transform.forward * speed * Time.deltaTime;
             transform.localPosition += -transform.up * speed * Time.deltaTime;
         }
 
         if (Input.GetKey(KeyCode.A))
         {
-            transform.Rotate(Vector3.up, - turnSpeed * Time.deltaTime);
+            transform.Rotate(Vector3.up, -turnSpeed * Time.deltaTime);
         }
 
         if (Input.GetKey(KeyCode.D))
@@ -56,5 +55,5 @@ public class Moving : MonoBehaviour
             transform.localPosition += transform.right * speed * Time.deltaTime;
         }
     }
-    
+
 }
