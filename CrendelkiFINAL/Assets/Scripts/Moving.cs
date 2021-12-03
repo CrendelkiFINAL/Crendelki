@@ -8,6 +8,14 @@ public class Moving : MonoBehaviour
     public float speed = 15f;
     public float turnSpeed = 50f;
     public GameObject dron;
+    public GameObject camera;
+    public GameObject rain;
+    public GameObject snow;
+    public GameObject choise;
+    public Material RainWeather;
+    public Material SnowWeather;
+    public Material FogWeather;
+    public Material GoodWeather;
 
     void Update()
     {
@@ -62,5 +70,37 @@ public class Moving : MonoBehaviour
     private void Stabilized()
     {
         dron.transform.eulerAngles = new Vector3(0, dron.transform.eulerAngles.y, 0);
+    }
+
+    public void Rain()
+    {
+        RenderSettings.skybox = RainWeather;
+        rain.SetActive(true);
+        choise.SetActive(false);
+    }
+
+    public void Snow()
+    {
+        RenderSettings.skybox = SnowWeather;
+        snow.SetActive(true);
+        choise.SetActive(false);
+    }
+
+    public void NiceWeather()
+    {
+        RenderSettings.skybox = GoodWeather;
+        choise.SetActive(false);
+    }
+
+    public void Fog()
+    {
+        RenderSettings.skybox = FogWeather;
+        RenderSettings.fog = true;
+        choise.SetActive(false);
+    }
+
+    public void goBack()
+    {
+        Application.LoadLevel("Menu");
     }
 }
