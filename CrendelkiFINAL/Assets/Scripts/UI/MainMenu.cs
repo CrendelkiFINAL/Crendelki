@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour
 
     public void Practice()
     {
-        Application.LoadLevel("PracticeLevel");
+        Application.LoadLevel("Practice");
     }
 
 
@@ -19,9 +19,8 @@ public class MainMenu : MonoBehaviour
 
     public void Educate()
     {
-        Application.LoadLevel("EducateLevel");
+        Application.LoadLevel("Educate");
     }
-
 
     public void Exit()
     {

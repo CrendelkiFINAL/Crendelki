@@ -1,426 +1,324 @@
 Using pre-set license
 Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10  (10.0.0) 64bit' Language: 'ru' Physical Memory: 16215 MB
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'ru' Physical Memory: 16177 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\Editor\Unity.exe
+C:\Program Files (x86)\Unity\2020.2.1f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/jessi/OneDrive/Рабочий стол/Рашид/!23
+C:/Users/Lazy cat/Desktop/New folder/Crendelki/CrendelkiFINAL
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51771
-Successfully changed project path to: C:/Users/jessi/OneDrive/Рабочий стол/Рашид/!23
-C:/Users/jessi/OneDrive/Рабочий стол/Рашид/!23
+63617
+Successfully changed project path to: C:/Users/Lazy cat/Desktop/New folder/Crendelki/CrendelkiFINAL
+C:/Users/Lazy cat/Desktop/New folder/Crendelki/CrendelkiFINAL
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 25.04 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 23.36 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/jessi/OneDrive/Рабочий стол/Рашид/!23/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Unity/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Lazy cat/Desktop/New folder/Crendelki/CrendelkiFINAL/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
     Vendor:   
     VRAM:     3962 MB
-    Driver:   27.21.14.5167
+    Driver:   30.0.14.7247
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56168
+Mono path[0] = 'C:/Program Files (x86)/Unity/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files (x86)/Unity/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files (x86)/Unity/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001719 seconds.
+Register platform support module: C:/Program Files (x86)/Unity/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001480 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 20.07 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 22.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.062 seconds
+- Completed reload, in  1.024 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000983 seconds.
+Registered in 0.000653 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-00000252F02A0750 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA72D240 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EACCDF20 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA73D850 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF483620 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA73D850 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF552440 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA7C5380 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EACCDF20 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF4A9430 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.786 seconds
+- Completed reload, in  0.736 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 56.8 MB.
-System memory in use after: 56.9 MB.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.3 MB.
+System memory in use after: 59.4 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1541.
-Total: 1.596800 ms (FindLiveObjects: 0.241800 ms CreateObjectMapping: 0.104100 ms MarkObjects: 1.194600 ms  DeleteObjects: 0.054700 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/New Material.mat
-  artifactKey: Guid(8a1f50d553c56294eb6b126f0b32ce33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material.mat using Guid(8a1f50d553c56294eb6b126f0b32ce33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6fc4a75a62585d204b381ce08d575a') in 0.100393 seconds
-  Import took 0.102843 seconds .
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 1.753100 ms (FindLiveObjects: 0.182900 ms CreateObjectMapping: 0.036600 ms MarkObjects: 1.451500 ms  DeleteObjects: 0.080900 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Assets/New Material 1.mat
-  artifactKey: Guid(a671869d5a1799c48b37554ffba3fff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material 1.mat using Guid(a671869d5a1799c48b37554ffba3fff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179331017319ea033400565094847875') in 0.016783 seconds
-  Import took 0.019754 seconds .
+  path: Assets/checkpoint.jpg
+  artifactKey: Guid(017caf43b5d678d4c8c1f62a0f46f3f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/checkpoint.jpg using Guid(017caf43b5d678d4c8c1f62a0f46f3f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c105deb254d50605fe11435b47d446') in 0.084246 seconds
+  Import took 0.085841 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.008802 seconds.
-  path: Assets/New Material 1.mat
-  artifactKey: Guid(a671869d5a1799c48b37554ffba3fff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material 1.mat using Guid(a671869d5a1799c48b37554ffba3fff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179331017319ea033400565094847875') in 0.041874 seconds
-  Import took 0.052866 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000829 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.670 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 60.3 MB.
-System memory in use after: 60.4 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1583.
-Total: 1.684300 ms (FindLiveObjects: 0.208900 ms CreateObjectMapping: 0.094200 ms MarkObjects: 1.332600 ms  DeleteObjects: 0.045800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 71.567863 seconds.
-  path: Assets/Drone2
-  artifactKey: Guid(bf3288f82c93d1349817f69567fc5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drone2 using Guid(bf3288f82c93d1349817f69567fc5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af028ed104cf7ea8cee1f7c3ca98bac2') in 0.007636 seconds
-  Import took 0.009326 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007400 seconds.
-  path: Assets/Drone2
-  artifactKey: Guid(bf3288f82c93d1349817f69567fc5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drone2 using Guid(bf3288f82c93d1349817f69567fc5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af028ed104cf7ea8cee1f7c3ca98bac2') in 0.002199 seconds
-  Import took 0.004382 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.207357 seconds.
-  path: Assets/Drone
-  artifactKey: Guid(65f58b2feeac847499f73b484795eeba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drone using Guid(65f58b2feeac847499f73b484795eeba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80b95534677997b56539fb7191357701') in 0.006204 seconds
-  Import took 0.008273 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002151 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.669 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 60.6 MB.
-System memory in use after: 60.7 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1585.
-Total: 1.549800 ms (FindLiveObjects: 0.202000 ms CreateObjectMapping: 0.081000 ms MarkObjects: 1.226000 ms  DeleteObjects: 0.039300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 25.874351 seconds.
-  path: Assets/Dron
-  artifactKey: Guid(7fbe6c65d3c4ebd4b835372f1a911bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Dron using Guid(7fbe6c65d3c4ebd4b835372f1a911bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '468a98d2cebbbcca01bb026fc89d5525') in 0.010249 seconds
-  Import took 0.012136 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.069156 seconds.
-  path: Assets/Dron/dron.fbx
-  artifactKey: Guid(c072294b6b4ab4e40bbb13117879d061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Dron/dron.fbx using Guid(c072294b6b4ab4e40bbb13117879d061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bafda39950f3542c35601861910ee974') in 1.083935 seconds
-  Import took 1.088594 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/Dron/Dron.prefab
-  artifactKey: Guid(38d72ee790ad90e4b822aa318dbeb7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Dron/Dron.prefab using Guid(38d72ee790ad90e4b822aa318dbeb7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a55ea55a3ab372e6ceab204daed0e6') in 0.051316 seconds
-  Import took 0.056847 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.087176 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(e917ab25a02b1be4690f8ebeae5160ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(e917ab25a02b1be4690f8ebeae5160ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0363df2c64dd6ec63a45e17332fa9d83') in 0.006373 seconds
-  Import took 0.008472 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000647 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.678 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.7 MB.
-System memory in use after: 61.8 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1591.
-Total: 1.488400 ms (FindLiveObjects: 0.150000 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.254900 ms  DeleteObjects: 0.036500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.873202 seconds.
-  path: Assets/Scripts/CameraMoving.cs
-  artifactKey: Guid(3b6f494d0c4a33a41b5616c23c79c02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/CameraMoving.cs using Guid(3b6f494d0c4a33a41b5616c23c79c02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8279ba9dc468b32c2bfd32651776ddd9') in 0.010348 seconds
-  Import took 0.012103 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000651 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.58 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.755 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1092 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.7 MB.
-System memory in use after: 61.8 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1592.
-Total: 1.466400 ms (FindLiveObjects: 0.174600 ms CreateObjectMapping: 0.047600 ms MarkObjects: 1.203500 ms  DeleteObjects: 0.039400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000616 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.772 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.3 MB.
-System memory in use after: 62.3 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1595.
-Total: 1.317800 ms (FindLiveObjects: 0.131500 ms CreateObjectMapping: 0.038800 ms MarkObjects: 1.109900 ms  DeleteObjects: 0.036000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.751022 seconds.
-  path: Assets/Material/Grass.mat
-  artifactKey: Guid(55ad032397021d548abda60ad518a060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material/Grass.mat using Guid(55ad032397021d548abda60ad518a060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1effca0df82123e4041400a8f0c35a') in 0.057702 seconds
-  Import took 0.059599 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Material/трава_1.jpg
-  artifactKey: Guid(3d74f76d742638e468504b9c84cd824d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material/трава_1.jpg using Guid(3d74f76d742638e468504b9c84cd824d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad765f8003c6045e230ed022ab3420a1') in 0.023808 seconds
-  Import took 0.025517 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.766944 seconds.
-  path: Assets/Scenes/Test.unity
-  artifactKey: Guid(2ad0e024ad241ce40870179cf728342c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Test.unity using Guid(2ad0e024ad241ce40870179cf728342c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b3199905527975639018ab38b520ac1') in 0.006259 seconds
-  Import took 0.008097 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007211 seconds.
-  path: Assets/Scenes/Test.unity
-  artifactKey: Guid(2ad0e024ad241ce40870179cf728342c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Test.unity using Guid(2ad0e024ad241ce40870179cf728342c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b3199905527975639018ab38b520ac1') in 0.002406 seconds
-  Import took 0.004259 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000970 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.817 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.6 MB.
-System memory in use after: 62.6 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1599.
-Total: 2.284300 ms (FindLiveObjects: 0.291900 ms CreateObjectMapping: 0.109500 ms MarkObjects: 1.828500 ms  DeleteObjects: 0.052000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 143.063771 seconds.
+  Time since last request: 24.270253 seconds.
   path: Assets/Material
   artifactKey: Guid(332e0c58afd90e64db05484cb0ac0806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material using Guid(332e0c58afd90e64db05484cb0ac0806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bde0bd086d386fc500c55ea5a98faa6') in 0.009678 seconds
-  Import took 0.011541 seconds .
+Start importing Assets/Material using Guid(332e0c58afd90e64db05484cb0ac0806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb5ea5c0c3bcbbba27453f61381f1037') in 0.005067 seconds
+  Import took 0.006582 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.067727 seconds.
-  path: Assets/Material/Grass1.mat
-  artifactKey: Guid(4e722a7c886fb29469faf852bed23196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material/Grass1.mat using Guid(4e722a7c886fb29469faf852bed23196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c4c66d38a1a2f51a4b5ea11dcdbe04') in 0.058578 seconds
-  Import took 0.060696 seconds .
+  Time since last request: 0.007661 seconds.
+  path: Assets/Material
+  artifactKey: Guid(332e0c58afd90e64db05484cb0ac0806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material using Guid(332e0c58afd90e64db05484cb0ac0806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb5ea5c0c3bcbbba27453f61381f1037') in 0.001907 seconds
+  Import took 0.003492 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000329 seconds.
-  path: Assets/Material/Metall.mat
-  artifactKey: Guid(2b51ecfe2dbbea3479342788fb55e247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material/Metall.mat using Guid(2b51ecfe2dbbea3479342788fb55e247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ba3690e4005acc74975f953c668abc') in 0.012871 seconds
-  Import took 0.014967 seconds .
+  Time since last request: 0.035683 seconds.
+  path: Assets/Material/Grass.mat
+  artifactKey: Guid(d906798bba332b34fa27f40191d4851a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Grass.mat using Guid(d906798bba332b34fa27f40191d4851a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b25d9eff3352767ced94f44f6bf8476d') in 0.081194 seconds
+  Import took 0.082827 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 39.438248 seconds.
-  path: Assets/Scenes/Test1.unity
+  Time since last request: 0.000149 seconds.
+  path: Assets/Material/трава_1.jpg
+  artifactKey: Guid(3d74f76d742638e468504b9c84cd824d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/трава_1.jpg using Guid(3d74f76d742638e468504b9c84cd824d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3bcd51efa31d348c870ff9457f1636b') in 0.010879 seconds
+  Import took 0.012750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.515210 seconds.
+  path: Assets/Textures/image (1) blur.png
+  artifactKey: Guid(ae6b1915257b30d4da9ef7f895625ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/image (1) blur.png using Guid(ae6b1915257b30d4da9ef7f895625ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bebe865d138c5dfea73bbabf3598826') in 0.030374 seconds
+  Import took 0.031968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Textures/image (5).png
+  artifactKey: Guid(508cd9138c1dbc74c9daf71b2d8c704c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/image (5).png using Guid(508cd9138c1dbc74c9daf71b2d8c704c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765f05ec723c070ad10a74b6a9b80752') in 0.031540 seconds
+  Import took 0.033330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Textures/image (4).png
+  artifactKey: Guid(3c5cc0805a074664485471450bc587e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/image (4).png using Guid(3c5cc0805a074664485471450bc587e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d0947dbd3492dc8b20c8c3a0cfed0a') in 0.084368 seconds
+  Import took 0.086018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Textures/image (8).png
+  artifactKey: Guid(9d3a4fa634a094a4b930b80ba872b726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/image (8).png using Guid(9d3a4fa634a094a4b930b80ba872b726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062bea96056f010825b75dfceb76033e') in 0.045426 seconds
+  Import took 0.047132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Textures/image (9).png
+  artifactKey: Guid(93b0df65d495bc74e95d734d4a0bfd02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/image (9).png using Guid(93b0df65d495bc74e95d734d4a0bfd02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c212690abb64d7eb9410f61dacf6f3e') in 0.015500 seconds
+  Import took 0.017100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Textures/image (7).png
+  artifactKey: Guid(8732c36702ae8f9498f752142bc12ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/image (7).png using Guid(8732c36702ae8f9498f752142bc12ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c15cbde6f5e36fc544c48e1b251cbb0') in 0.029045 seconds
+  Import took 0.030671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Textures/image (3).png
+  artifactKey: Guid(4afb322211b1b0d4c81eed0f83478ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/image (3).png using Guid(4afb322211b1b0d4c81eed0f83478ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbef8fa22e87e88ac3faa522f5cc3fa5') in 0.020058 seconds
+  Import took 0.021696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Textures/image (2).png
+  artifactKey: Guid(892fdab807cead44a8d1b8905b505b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/image (2).png using Guid(892fdab807cead44a8d1b8905b505b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b42b5064e0c1896af21a85b76e5ec83') in 0.018596 seconds
+  Import took 0.020411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Textures/image (1).png
+  artifactKey: Guid(8b9bbab86c96c424ea681d291e75b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/image (1).png using Guid(8b9bbab86c96c424ea681d291e75b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69ec602446e708b1837b86170a1c39d3') in 0.013212 seconds
+  Import took 0.015392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Textures/image (6).png
+  artifactKey: Guid(4a020c1e3b050204c86f3f8d1b909322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/image (6).png using Guid(4a020c1e3b050204c86f3f8d1b909322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0df5580667fb397d657965cee51c56bc') in 0.011883 seconds
+  Import took 0.014286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Textures/image (10).png
+  artifactKey: Guid(f3ef731d4bba94c44964cef92dde61c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/image (10).png using Guid(f3ef731d4bba94c44964cef92dde61c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '168a5ae3c1ad4c21338756d1e5fb645a') in 0.017045 seconds
+  Import took 0.018782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.359759 seconds.
+  path: Assets/Materials/меттал_141.mat
+  artifactKey: Guid(cb8ec8fcc510b644fbaa4243812ed8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/меттал_141.mat using Guid(cb8ec8fcc510b644fbaa4243812ed8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1d4f26d40d89ad01a1e6807d44069b0') in 0.016219 seconds
+  Import took 0.017986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.385936 seconds.
+  path: Assets/Dron/dron.fbx
+  artifactKey: Guid(c072294b6b4ab4e40bbb13117879d061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dron/dron.fbx using Guid(c072294b6b4ab4e40bbb13117879d061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b75804a90b1abc3a95e96e10d7f004f3') in 0.699169 seconds
+  Import took 0.703491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Dron/Dron.prefab
+  artifactKey: Guid(38d72ee790ad90e4b822aa318dbeb7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dron/Dron.prefab using Guid(38d72ee790ad90e4b822aa318dbeb7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28d87af426a5d1561d0ab2ab4ed778c4') in 0.128065 seconds
+  Import took 0.133277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.928638 seconds.
+  path: Assets/Scenes/Educate.unity
+  artifactKey: Guid(054ccbf49cf25f24a991ed8035d2472b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Educate.unity using Guid(054ccbf49cf25f24a991ed8035d2472b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa4f57eca3cc493b3132f57b84bed006') in 0.006964 seconds
+  Import took 0.008807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.780451 seconds.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(8d9ed15275604a647ae8b545d6f9cfb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(8d9ed15275604a647ae8b545d6f9cfb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ff644546375aa85583adcd95468013') in 0.006682 seconds
+  Import took 0.008475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.583181 seconds.
+  path: Assets/Scenes/Practice.unity
+  artifactKey: Guid(5c421db8750c8854fb307fa5c377dec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Practice.unity using Guid(5c421db8750c8854fb307fa5c377dec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58d88df53a31e68baa25c41c2ea92dd') in 0.006795 seconds
+  Import took 0.008529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.080499 seconds.
+  path: Assets/Scenes/RoadLevel.unity
   artifactKey: Guid(2ad0e024ad241ce40870179cf728342c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Test1.unity using Guid(2ad0e024ad241ce40870179cf728342c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '940ad4a8fd97fb52ca4c73f203d721bd') in 0.009630 seconds
-  Import took 0.012056 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000998 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.654 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.8 MB.
-System memory in use after: 62.9 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1602.
-Total: 1.613100 ms (FindLiveObjects: 0.212500 ms CreateObjectMapping: 0.048900 ms MarkObjects: 1.312000 ms  DeleteObjects: 0.038400 ms)
+Start importing Assets/Scenes/RoadLevel.unity using Guid(2ad0e024ad241ce40870179cf728342c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e65f766eb0509101623df7ad274aa045') in 0.007182 seconds
+  Import took 0.009080 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 80.024351 seconds.
+  Time since last request: 1.414478 seconds.
   path: Assets/Scenes/Test.unity
+  artifactKey: Guid(3d0dc292271a5f74b844bb3ec5058c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test.unity using Guid(3d0dc292271a5f74b844bb3ec5058c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '204e0eec67f14cac14955d4d840144da') in 0.006495 seconds
+  Import took 0.008252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.246682 seconds.
+  path: Assets/Scenes/Test2.unity
   artifactKey: Guid(df1d9c98c2f6e914d9a996f8f7d3ad5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Test.unity using Guid(df1d9c98c2f6e914d9a996f8f7d3ad5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '529dc55cbce34d6ac456873ce30035e1') in 0.015912 seconds
-  Import took 0.017685 seconds .
+Start importing Assets/Scenes/Test2.unity using Guid(df1d9c98c2f6e914d9a996f8f7d3ad5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f333355c90c8cc2aaabd3f0055a98a6') in 0.002538 seconds
+  Import took 0.004545 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000875 seconds.
+Registered in 0.000654 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.668 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.1 MB.
-System memory in use after: 62.2 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1604.
-Total: 1.539300 ms (FindLiveObjects: 0.195000 ms CreateObjectMapping: 0.051600 ms MarkObjects: 1.253200 ms  DeleteObjects: 0.038100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000664 seconds.
-Begin MonoManager ReloadAssembly
+Symbol file data-00000252C2FC43C0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA788F00 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA5E2D40 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F0298740 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F2C3E810 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA492870 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAA275A0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F110B010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F3091010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F030D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -428,15 +326,1396 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.664 seconds
+- Completed reload, in  0.662 seconds
 Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.2 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 1.417000 ms (FindLiveObjects: 0.129300 ms CreateObjectMapping: 0.033200 ms MarkObjects: 1.191600 ms  DeleteObjects: 0.062000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4494.648677 seconds.
+  path: Assets/Scenes/Test.unity
+  artifactKey: Guid(3d0dc292271a5f74b844bb3ec5058c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test.unity using Guid(3d0dc292271a5f74b844bb3ec5058c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c4ad45d2ac93c7ab03259fcc22f878b') in 0.015118 seconds
+  Import took 0.016860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.885234 seconds.
+  path: Assets/Scenes/Educate.unity
+  artifactKey: Guid(054ccbf49cf25f24a991ed8035d2472b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Educate.unity using Guid(054ccbf49cf25f24a991ed8035d2472b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958ca578aacc2e9670743d8653467e3f') in 0.002675 seconds
+  Import took 0.005128 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000524 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F19D6F20 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F2FEC650 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1420890 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1509EC0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F2C3CBD0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EFEA0010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1EBF790 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1558DE0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1C378D0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F3025010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.4 MB.
-System memory in use after: 62.5 MB.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.650 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.2 MB.
+System memory in use after: 64.3 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1606.
-Total: 1.682100 ms (FindLiveObjects: 0.140900 ms CreateObjectMapping: 0.045000 ms MarkObjects: 1.452700 ms  DeleteObjects: 0.042500 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1618.
+Total: 1.529000 ms (FindLiveObjects: 0.124500 ms CreateObjectMapping: 0.034700 ms MarkObjects: 1.300000 ms  DeleteObjects: 0.068500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000583 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F169B030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F19C4900 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1C30B90 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F195D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F0263010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F195D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F032CA70 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BCC1680 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1C378D0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1DF9830 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.811 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.2 MB.
+System memory in use after: 64.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1620.
+Total: 1.644800 ms (FindLiveObjects: 0.143700 ms CreateObjectMapping: 0.043100 ms MarkObjects: 1.392600 ms  DeleteObjects: 0.064000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000578 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F19D6F20 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F3667010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F0915880 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F14338D0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F3025010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F15FDED0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA7B3B10 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F391A1A0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F2F1BF90 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA72D240 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.651 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.3 MB.
+System memory in use after: 64.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1622.
+Total: 2.228900 ms (FindLiveObjects: 0.199900 ms CreateObjectMapping: 0.138700 ms MarkObjects: 1.822100 ms  DeleteObjects: 0.066400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1583.864463 seconds.
+  path: Assets/SkySerie Freebie/6SidedFluffball.mat
+  artifactKey: Guid(efd1c33efd2d58340b88804268e6833f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/6SidedFluffball.mat using Guid(efd1c33efd2d58340b88804268e6833f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b451db2e8f7355ae44daae5f0e654226') in 0.107369 seconds
+  Import took 0.110235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/SkySerie Freebie/HighFantasy.mat
+  artifactKey: Guid(e2341a9d03e86ec4290c72b1e22bbc7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/HighFantasy.mat using Guid(e2341a9d03e86ec4290c72b1e22bbc7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccfb95a4e5212fc21f93fd40bb18c4c6') in 0.065604 seconds
+  Import took 0.068818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/SkySerie Freebie/UnderTheSea4k.mat
+  artifactKey: Guid(119ec07f1c7ed204db46bd8465fd5a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/UnderTheSea4k.mat using Guid(119ec07f1c7ed204db46bd8465fd5a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26d25437703cc084e130f092d2caf5c3') in 0.068579 seconds
+  Import took 0.071593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/SkySerie Freebie/UnearthlyRed.mat
+  artifactKey: Guid(5d133deeaa66ed445853e946ff25e073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/UnearthlyRed.mat using Guid(5d133deeaa66ed445853e946ff25e073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a942edf0b5be7244ee06c6006396ba8c') in 0.060738 seconds
+  Import took 0.063737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/SkySerie Freebie/CosmicCoolCloud.mat
+  artifactKey: Guid(f531e09e2ad2fb440b4eed7605863143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/CosmicCoolCloud.mat using Guid(f531e09e2ad2fb440b4eed7605863143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f81eae9734367467626f3522790ba63') in 0.057193 seconds
+  Import took 0.059436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/SkySerie Freebie/SunlessCirruscover.mat
+  artifactKey: Guid(4e154bf235e41704bbd6bbc6fd6c63f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/SunlessCirruscover.mat using Guid(4e154bf235e41704bbd6bbc6fd6c63f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a94c682051fd6fbc91d17f5a865cd384') in 0.038304 seconds
+  Import took 0.041309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/SkySerie Freebie/6SidedMegaSun.mat
+  artifactKey: Guid(c52c5d7968fa6c9499b0b5752f899bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/6SidedMegaSun.mat using Guid(c52c5d7968fa6c9499b0b5752f899bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cf5ec7c553c0656c51b7f7016d81403') in 0.015801 seconds
+  Import took 0.017609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/SkySerie Freebie/DayInTheClouds.mat
+  artifactKey: Guid(3e5399bd195de7649b874f58c1b9f8a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/DayInTheClouds.mat using Guid(3e5399bd195de7649b874f58c1b9f8a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '767acd31ffe41e18e82c999def4b1a50') in 0.038726 seconds
+  Import took 0.041820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/SkySerie Freebie/Cloudymorning.mat
+  artifactKey: Guid(d9dca9ae1786c394f9e79c637aa9a7bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/Cloudymorning.mat using Guid(d9dca9ae1786c394f9e79c637aa9a7bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dddf0f9fbd6b95ee6b362816f322e0f') in 0.031552 seconds
+  Import took 0.034567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/SkySerie Freebie/CoriolisNight4k.mat
+  artifactKey: Guid(d4454f71d85928744be7771e2143dab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/CoriolisNight4k.mat using Guid(d4454f71d85928744be7771e2143dab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25d05d59fe911848e801ad0f4d9e5894') in 0.061300 seconds
+  Import took 0.064458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/SkySerie Freebie/SkyhighFluffycloudField.mat
+  artifactKey: Guid(f15c336556dd74f40aaca655f7767970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/SkyhighFluffycloudField.mat using Guid(f15c336556dd74f40aaca655f7767970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e78ede680e38f37ba02f842e8d69611') in 0.058072 seconds
+  Import took 0.061089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/SkySerie Freebie/PlanetaryEarth.mat
+  artifactKey: Guid(16bc8a9d5451ca44d8f70575adbece3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/PlanetaryEarth.mat using Guid(16bc8a9d5451ca44d8f70575adbece3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab04dac079c7adde0b03474ca70499fd') in 0.058311 seconds
+  Import took 0.061630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/SkySerie Freebie/DarkStorm.mat
+  artifactKey: Guid(2039a0ad0a9d05549928b70362f54902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/DarkStorm.mat using Guid(2039a0ad0a9d05549928b70362f54902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f85760a7f7378454df3b1f2dddddd74') in 0.032613 seconds
+  Import took 0.035835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/SkySerie Freebie/AmbienceExposure.mat
+  artifactKey: Guid(72deae4d18418f94688abef8e8483df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/AmbienceExposure.mat using Guid(72deae4d18418f94688abef8e8483df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d7cad78a185c2bed27c20268db40aa3') in 0.053122 seconds
+  Import took 0.056076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/SkySerie Freebie/CloudedSunGlow.mat
+  artifactKey: Guid(e391f00234292cc4f935308c11cf0e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/CloudedSunGlow.mat using Guid(e391f00234292cc4f935308c11cf0e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '822c86d5f93721b580a568735df11d82') in 0.055052 seconds
+  Import took 0.058059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/SkySerie Freebie/FluffballDay.mat
+  artifactKey: Guid(20d4f77b9022eab48b4d94599ed4bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/FluffballDay.mat using Guid(20d4f77b9022eab48b4d94599ed4bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50a64ca5eb89455b9319be2057f5338c') in 0.058128 seconds
+  Import took 0.061081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/SkySerie Freebie/CasualDay.mat
+  artifactKey: Guid(85cf0b004bc4a654b9e501efcce47902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/CasualDay.mat using Guid(85cf0b004bc4a654b9e501efcce47902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64deccba2132bfba52aec48ae85163ee') in 0.057551 seconds
+  Import took 0.060572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/SkySerie Freebie/MegaSun.mat
+  artifactKey: Guid(cede08c9fc471e64884909cd4bbeaf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySerie Freebie/MegaSun.mat using Guid(cede08c9fc471e64884909cd4bbeaf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27335e5a870f8eee41136df2f9a20884') in 0.055027 seconds
+  Import took 0.058053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.916569 seconds.
+  path: Assets/Textures/8131_8d8fcf55516c3c8744e24ca477281f18.png
+  artifactKey: Guid(c45bce3a7f1ab9b42addc60500f655bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/8131_8d8fcf55516c3c8744e24ca477281f18.png using Guid(c45bce3a7f1ab9b42addc60500f655bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6806443b28b5454e13455cef07ccf1a') in 0.014210 seconds
+  Import took 0.015917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 175.622147 seconds.
+  path: Assets/Textures/white-arrow-37.png
+  artifactKey: Guid(9a431857234b0874f9c1ebbd0975cb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/white-arrow-37.png using Guid(9a431857234b0874f9c1ebbd0975cb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75f2bf6d9538646290d017b46c9ea6a') in 0.011528 seconds
+  Import took 0.013637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002619 seconds.
+  path: Assets/Textures/white-arrow-37.png
+  artifactKey: Guid(9a431857234b0874f9c1ebbd0975cb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/white-arrow-37.png using Guid(9a431857234b0874f9c1ebbd0975cb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75f2bf6d9538646290d017b46c9ea6a') in 0.029810 seconds
+  Import took 0.031631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 449.439423 seconds.
+  path: Assets/Map
+  artifactKey: Guid(dfeee2fe177b4564584522dfe84fa4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map using Guid(dfeee2fe177b4564584522dfe84fa4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066b8d00e719c2459983912a19e89bbd') in 0.006587 seconds
+  Import took 0.008911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.876924 seconds.
+  path: Assets/Map/New Render Texture.renderTexture
+  artifactKey: Guid(caf30273558858a4f9cbabcf43895fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/New Render Texture.renderTexture using Guid(caf30273558858a4f9cbabcf43895fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce72b7a9817170d6497ff43280a1e90') in 0.016938 seconds
+  Import took 0.018756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 324.205627 seconds.
+  path: Assets/Scripts/MinimapCameraFollow.cs
+  artifactKey: Guid(b13e33e85dea08d468019320e0492063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MinimapCameraFollow.cs using Guid(b13e33e85dea08d468019320e0492063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30372aa80ac2e57ceb9ed022b01c51dc') in 0.009789 seconds
+  Import took 0.011831 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000575 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F15EDC00 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF03C030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F13518A0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F04E9020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEFB6020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F15FDED0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F318E880 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1490030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAC2F030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F17CA750 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.704 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.4 MB.
+System memory in use after: 64.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 1.478400 ms (FindLiveObjects: 0.198300 ms CreateObjectMapping: 0.087200 ms MarkObjects: 1.138800 ms  DeleteObjects: 0.053000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000660 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252EFF20E40 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF03C030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F19B1900 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EFEA0010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F069F020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA83E020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C664040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1490030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEEF4010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F083E030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.631 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.4 MB.
+System memory in use after: 64.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 1.353800 ms (FindLiveObjects: 0.125000 ms CreateObjectMapping: 0.035200 ms MarkObjects: 1.134500 ms  DeleteObjects: 0.058000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000821 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F19D6F20 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF03C030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F13518A0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F12B8100 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F3025010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F107C040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F3805010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F3913910 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEB7D020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BDEF020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.632 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.2 MB.
+System memory in use after: 64.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 1.528500 ms (FindLiveObjects: 0.284800 ms CreateObjectMapping: 0.039500 ms MarkObjects: 1.146400 ms  DeleteObjects: 0.056500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001064 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F19D6F20 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF03C030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F13518A0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F12B8100 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F069F020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAD2B020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F318E880 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F3913910 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEB7D020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F2C4CBE0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.697 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.4 MB.
+System memory in use after: 64.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1635.
+Total: 1.476000 ms (FindLiveObjects: 0.130700 ms CreateObjectMapping: 0.036100 ms MarkObjects: 1.247400 ms  DeleteObjects: 0.060400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3341.343129 seconds.
+  path: Assets/Scripts/EducateScript.cs
+  artifactKey: Guid(c5d278c14d2473740a5e41f6f7ffeef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EducateScript.cs using Guid(c5d278c14d2473740a5e41f6f7ffeef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b9914243b70ea38910a3696b187c802') in 0.010040 seconds
+  Import took 0.012592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001935 seconds.
+  path: Assets/Scripts/EducateScript.cs
+  artifactKey: Guid(c5d278c14d2473740a5e41f6f7ffeef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EducateScript.cs using Guid(c5d278c14d2473740a5e41f6f7ffeef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b9914243b70ea38910a3696b187c802') in 0.003282 seconds
+  Import took 0.005490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.045282 seconds.
+  path: Assets/Scenes/Test.unity
+  artifactKey: Guid(3d0dc292271a5f74b844bb3ec5058c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test.unity using Guid(3d0dc292271a5f74b844bb3ec5058c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aed434dc55d1d5ae037662a9d3053ed8') in 0.012018 seconds
+  Import took 0.013843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.126002 seconds.
+  path: Assets/Map/Minimap.renderTexture
+  artifactKey: Guid(caf30273558858a4f9cbabcf43895fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Minimap.renderTexture using Guid(caf30273558858a4f9cbabcf43895fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb81a767ee0757482acd20c8e3d5f92f') in 0.032040 seconds
+  Import took 0.033984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.677821 seconds.
+  path: Assets/Drone2/prefab/drone black and white Variant.prefab
+  artifactKey: Guid(ce1e8e032db7c26449ae1d260b060f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drone2/prefab/drone black and white Variant.prefab using Guid(ce1e8e032db7c26449ae1d260b060f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b1bfafcd1b2f588fbe5efaf2f576ec') in 0.065875 seconds
+  Import took 0.068011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Drone2/prefab/drone Black.prefab
+  artifactKey: Guid(c53e58c59cba20e4ab6f2080fbdafb5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drone2/prefab/drone Black.prefab using Guid(c53e58c59cba20e4ab6f2080fbdafb5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3ccef27918d8cc457bc8a2dcafac40b') in 0.016835 seconds
+  Import took 0.018661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Drone2/prefab/drone green Variant.prefab
+  artifactKey: Guid(cf23b55ba765f374aab36c1a7a3b28f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drone2/prefab/drone green Variant.prefab using Guid(cf23b55ba765f374aab36c1a7a3b28f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2084109b1c84860b1934376e739dd81d') in 0.017349 seconds
+  Import took 0.019262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Drone2/prefab/drone.prefab
+  artifactKey: Guid(e746f881748d3a147949e70e5c570880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drone2/prefab/drone.prefab using Guid(e746f881748d3a147949e70e5c570880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e8701f517939166331ba67a71938dd') in 0.017187 seconds
+  Import took 0.018945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Drone2/prefab/drone orange Variant.prefab
+  artifactKey: Guid(b8c5de00063898242910230cb837de87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drone2/prefab/drone orange Variant.prefab using Guid(b8c5de00063898242910230cb837de87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cfc48453e4ff9d9d211de819d8d50c7') in 0.038329 seconds
+  Import took 0.040477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Drone2/prefab/drone blue.prefab
+  artifactKey: Guid(323885c14529a9142b1f9dbaabda8e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drone2/prefab/drone blue.prefab using Guid(323885c14529a9142b1f9dbaabda8e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7676e9cbeba326ccc0ad5f1b6b82550') in 0.034453 seconds
+  Import took 0.036365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003730 seconds.
+  path: Assets/Drone2/prefab/drone blue.prefab
+  artifactKey: Guid(323885c14529a9142b1f9dbaabda8e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drone2/prefab/drone blue.prefab using Guid(323885c14529a9142b1f9dbaabda8e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7676e9cbeba326ccc0ad5f1b6b82550') in 0.027747 seconds
+  Import took 0.029815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.657259 seconds.
+  path: Assets/Assets/Materials/Frame 11.mat
+  artifactKey: Guid(9801b8eebb116564d8a6d5604bfcbf1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Materials/Frame 11.mat using Guid(9801b8eebb116564d8a6d5604bfcbf1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd44bbf17b49adf9573cd136ad3dda639') in 0.026900 seconds
+  Import took 0.028748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.889124 seconds.
+  path: Assets/Materials/Materials/checkpoint.mat
+  artifactKey: Guid(6cf9ad6a2a02f424c97e18ea1066c456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/checkpoint.mat using Guid(6cf9ad6a2a02f424c97e18ea1066c456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b055464a8a3312c24fc0c9bb8000d0f0') in 0.013924 seconds
+  Import took 0.015824 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000673 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F19CD8D0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BEB7010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA76A030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA73D260 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F069F020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BEEB040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAC7D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA597010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF8D9080 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BDEF020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.639 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.6 MB.
+System memory in use after: 64.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1638.
+Total: 1.505600 ms (FindLiveObjects: 0.120500 ms CreateObjectMapping: 0.034600 ms MarkObjects: 1.282200 ms  DeleteObjects: 0.067200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000867 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F19CD8D0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F2B4AFE0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA76A030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA73D260 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F069F020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BEEB040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAC7D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA597010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEB7D020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BDEF020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.655 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.6 MB.
+System memory in use after: 64.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1640.
+Total: 1.597100 ms (FindLiveObjects: 0.124100 ms CreateObjectMapping: 0.034500 ms MarkObjects: 1.382000 ms  DeleteObjects: 0.055500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000557 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252EEF4C540 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531DACF010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F19CFA80 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F0365020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F069F020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EE984030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531CBC4040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1490030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF8D9080 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C699020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.652 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.6 MB.
+System memory in use after: 64.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1642.
+Total: 2.285500 ms (FindLiveObjects: 0.233800 ms CreateObjectMapping: 0.038500 ms MarkObjects: 1.955800 ms  DeleteObjects: 0.055800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2178.885389 seconds.
+  path: Assets/Scenes/Test2.unity
+  artifactKey: Guid(df1d9c98c2f6e914d9a996f8f7d3ad5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test2.unity using Guid(df1d9c98c2f6e914d9a996f8f7d3ad5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f4af1dff1a3da6e407e25e0479b4ce') in 0.015807 seconds
+  Import took 0.017649 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000617 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002531C6B6C60 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BE4D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F13518A0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C6A9040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F069F020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA73D260 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F157A010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531CEF7020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1559E20 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BDEF020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.635 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.6 MB.
+System memory in use after: 64.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1644.
+Total: 1.475500 ms (FindLiveObjects: 0.136200 ms CreateObjectMapping: 0.035900 ms MarkObjects: 1.245400 ms  DeleteObjects: 0.056800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.554277 seconds.
+  path: Assets/Scenes/Test2.unity
+  artifactKey: Guid(df1d9c98c2f6e914d9a996f8f7d3ad5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test2.unity using Guid(df1d9c98c2f6e914d9a996f8f7d3ad5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4696824a01ecfee2e4014a48c811ce9') in 0.012852 seconds
+  Import took 0.014565 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000513 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F19D6F20 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531DACF010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F13518A0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F0365020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C4A8020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA73D260 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BE4D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531CEF7020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F15E85D0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BDEF020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.632 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.6 MB.
+System memory in use after: 64.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1646.
+Total: 1.566500 ms (FindLiveObjects: 0.140500 ms CreateObjectMapping: 0.033200 ms MarkObjects: 1.321500 ms  DeleteObjects: 0.070000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000629 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252EA59B020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531D769020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEB7D020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F12B8100 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F35F6040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F15FDED0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1A32F10 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531CEF7020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEB7D020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BDEF020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.5 MB.
+System memory in use after: 64.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1649.
+Total: 2.612700 ms (FindLiveObjects: 0.136600 ms CreateObjectMapping: 0.038100 ms MarkObjects: 2.281100 ms  DeleteObjects: 0.153700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 245.754594 seconds.
+  path: Assets/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(9330a4902414c4945a3aa6898150e77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NewBehaviourScript.cs using Guid(9330a4902414c4945a3aa6898150e77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7194b64feeec50aa26a2e5b79ff9474c') in 0.009735 seconds
+  Import took 0.011639 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000589 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F15EDC00 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531DACF010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F13518A0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EFEA0010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C4A8020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EFEA0010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAA275A0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F2F1BF90 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAC2F030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF6D4020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.643 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.6 MB.
+System memory in use after: 64.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 1.328400 ms (FindLiveObjects: 0.120300 ms CreateObjectMapping: 0.032600 ms MarkObjects: 1.121000 ms  DeleteObjects: 0.053600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.685668 seconds.
+  path: Assets/Scripts/obstacleСourse.cs
+  artifactKey: Guid(16fcfa282e6d4dc429e1688abfd7a1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/obstacleСourse.cs using Guid(16fcfa282e6d4dc429e1688abfd7a1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '862bd3c3c3790e0d136d5e2ca1324aa4') in 0.008168 seconds
+  Import took 0.009992 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000809 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F15EDC00 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531DACF010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F13518A0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F0365020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C4A8020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EFF17010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F182A530 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F2F1BF90 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAC2F030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF6D4020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.971 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1653.
+Total: 1.609000 ms (FindLiveObjects: 0.150300 ms CreateObjectMapping: 0.037400 ms MarkObjects: 1.359200 ms  DeleteObjects: 0.060500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.658852 seconds.
+  path: Assets/Scripts/ObstacleСourse.cs
+  artifactKey: Guid(16fcfa282e6d4dc429e1688abfd7a1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ObstacleСourse.cs using Guid(16fcfa282e6d4dc429e1688abfd7a1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41aa3a7403eaa3532afecdfbc30b0cfc') in 0.008260 seconds
+  Import took 0.010677 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000630 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252EAA127C0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C6A9040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C0B0820 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F107C040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C4A8020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F107C040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BF99020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531CEF7020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAC2F030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F15B85B0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1655.
+Total: 1.368600 ms (FindLiveObjects: 0.166500 ms CreateObjectMapping: 0.034900 ms MarkObjects: 1.113900 ms  DeleteObjects: 0.052000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000595 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252EEF4C540 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C6A9040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F2F0EA70 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA73D260 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C4A8020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F107C040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAC7D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531CEF7020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEB7D020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BC964F0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.658 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.4 MB.
+System memory in use after: 64.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1657.
+Total: 1.438200 ms (FindLiveObjects: 0.140000 ms CreateObjectMapping: 0.041100 ms MarkObjects: 1.197800 ms  DeleteObjects: 0.057800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.202293 seconds.
+  path: Assets/Scripts/ObstacleСourse.cs
+  artifactKey: Guid(16fcfa282e6d4dc429e1688abfd7a1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ObstacleСourse.cs using Guid(16fcfa282e6d4dc429e1688abfd7a1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3388663aa5e1b95c57aacc5cc766c5da') in 0.004515 seconds
+  Import took 0.006450 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000750 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F15EDC00 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F177AA00 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F2F0EA70 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EFF17010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531D835060 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BDFF030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BE4D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEC88020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEB7D020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF468010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.634 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1659.
+Total: 2.278500 ms (FindLiveObjects: 0.227100 ms CreateObjectMapping: 0.083900 ms MarkObjects: 1.883100 ms  DeleteObjects: 0.082400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 239.722677 seconds.
+  path: Assets/Scripts/ObstacleСourse.cs
+  artifactKey: Guid(16fcfa282e6d4dc429e1688abfd7a1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ObstacleСourse.cs using Guid(16fcfa282e6d4dc429e1688abfd7a1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9352f34955771bcd5bc5a0024e258a04') in 0.005174 seconds
+  Import took 0.007830 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000596 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252F1CDDE50 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F177AA00 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F2F0EA70 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EA83E020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C4A8020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1509EC0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAC7D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEC88020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEB7D020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF0E2020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.624 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1661.
+Total: 1.465500 ms (FindLiveObjects: 0.125700 ms CreateObjectMapping: 0.034200 ms MarkObjects: 1.246300 ms  DeleteObjects: 0.058400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000591 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252EAA127C0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F15C85D0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1CBD690 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BC37030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1E548D0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EFEA0010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531CF88020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1558D70 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF8D9080 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEFB6020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.653 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.6 MB.
+System memory in use after: 64.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1663.
+Total: 4.141100 ms (FindLiveObjects: 0.413000 ms CreateObjectMapping: 0.100400 ms MarkObjects: 3.449500 ms  DeleteObjects: 0.174400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000610 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252EAA127C0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000025345FC3040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1CBD690 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BC37030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1E548D0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EFEA0010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAC7D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1558D70 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEEF4010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EF468010 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.693 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1665.
+Total: 1.840400 ms (FindLiveObjects: 0.232900 ms CreateObjectMapping: 0.093400 ms MarkObjects: 1.439900 ms  DeleteObjects: 0.072500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000782 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252EEF4C540 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F177AA00 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F13518A0 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531BC37030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531D0D9050 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F13F2030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAC7D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1558D70 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1404040 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531C1C0020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.694 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1667.
+Total: 1.706700 ms (FindLiveObjects: 0.253800 ms CreateObjectMapping: 0.095000 ms MarkObjects: 1.281200 ms  DeleteObjects: 0.075100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000720 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000252EEF4C540 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F177AA00 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F2F0EA70 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F13F2030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002531D0D9050 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F13F2030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EAC7D030 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1558D70 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252EEB7D020 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000252F1BA0F90 doesn't match image C:\Users\Lazy cat\Desktop\New folder\Crendelki\CrendelkiFINAL\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.637 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1669.
+Total: 1.408500 ms (FindLiveObjects: 0.133900 ms CreateObjectMapping: 0.035900 ms MarkObjects: 1.176300 ms  DeleteObjects: 0.061400 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
