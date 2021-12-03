@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Grass1
+  m_Name: Road
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 10, y: 10}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 8049a663448178246a6ce4f4b06edb0d, type: 3}
+        m_Texture: {fileID: 2800000, guid: 99847e75a4a4f5d4b8b14ba18ddb9bab, type: 3}
         m_Scale: {x: 10, y: 10}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -61,9 +61,9 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.984
+    - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Metallic: 0
+    - _Metallic: 0.258
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
