@@ -4,13 +4,16 @@ using UnityEngine;
 
 public class Moving : MonoBehaviour
 {
-
+    
     public float speed = 15f;
     public float turnSpeed = 50f;
+    public GameObject dron;
 
     void Update()
     {
         GetInput();
+        Stabilized();
+        
     }
 
     private void GetInput()
@@ -27,7 +30,7 @@ public class Moving : MonoBehaviour
 
         if (Input.GetKey(KeyCode.A))
         {
-            transform.Rotate(Vector3.up, -turnSpeed * Time.deltaTime);
+            transform.Rotate(Vector3.up, - turnSpeed * Time.deltaTime);
         }
 
         if (Input.GetKey(KeyCode.D))
@@ -56,4 +59,8 @@ public class Moving : MonoBehaviour
         }
     }
 
+    private void Stabilized()
+    {
+        dron.transform.eulerAngles = new Vector3(0, dron.transform.eulerAngles.y, 0);
+    }
 }
