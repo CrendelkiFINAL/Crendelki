@@ -5,19 +5,25 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/EducateLevel.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 8d9ed15275604a647ae8b545d6f9cfb7
   - enabled: 1
-    path: Assets/Scenes/RoadLevel.unity
-    guid: 2ad0e024ad241ce40870179cf728342c
+    path: Assets/Scenes/City.unity
+    guid: 20b86a34f29d45a48b93cb6a29fd16cd
+  - enabled: 1
+    path: Assets/Scenes/Educate.unity
+    guid: 054ccbf49cf25f24a991ed8035d2472b
+  - enabled: 1
+    path: Assets/Scenes/ExamLevel.unity
+    guid: 81529b7f239a16d4daff13c30d76479e
+  - enabled: 1
+    path: Assets/Scenes/Obstacle Course.unity
+    guid: 1a4d592778496dc4d9c5ece33065037b
   - enabled: 1
     path: Assets/Scenes/Practice.unity
     guid: 5c421db8750c8854fb307fa5c377dec5
   - enabled: 1
-    path: Assets/Scenes/Educate.unity
-    guid: 054ccbf49cf25f24a991ed8035d2472b
+    path: Assets/Scenes/RoadLevel.unity
+    guid: 2ad0e024ad241ce40870179cf728342c
   m_configObjects: {}

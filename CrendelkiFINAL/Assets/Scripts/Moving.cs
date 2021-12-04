@@ -5,13 +5,14 @@ using UnityEngine;
 public class Moving : MonoBehaviour
 {
     
-    public float speed = 15f;
-    public float turnSpeed = 50f;
+    public float speed = 10f;
+    public float turnSpeed = 80f;
     public GameObject dron;
-    public GameObject camera;
     public GameObject rain;
     public GameObject snow;
     public GameObject choise;
+    public GameObject countNum;
+    public GameObject lose;
     public Material RainWeather;
     public Material SnowWeather;
     public Material FogWeather;
@@ -65,6 +66,7 @@ public class Moving : MonoBehaviour
         {
             transform.localPosition += transform.right * speed * Time.deltaTime;
         }
+
     }
 
     private void Stabilized()
@@ -77,19 +79,23 @@ public class Moving : MonoBehaviour
         RenderSettings.skybox = RainWeather;
         rain.SetActive(true);
         choise.SetActive(false);
+        countNum.SetActive(true);
     }
 
     public void Snow()
     {
         RenderSettings.skybox = SnowWeather;
+        RenderSettings.fog = true;
         snow.SetActive(true);
         choise.SetActive(false);
+        countNum.SetActive(true);
     }
 
     public void NiceWeather()
     {
         RenderSettings.skybox = GoodWeather;
         choise.SetActive(false);
+        countNum.SetActive(true);
     }
 
     public void Fog()
@@ -97,10 +103,22 @@ public class Moving : MonoBehaviour
         RenderSettings.skybox = FogWeather;
         RenderSettings.fog = true;
         choise.SetActive(false);
+        countNum.SetActive(true);
     }
 
     public void goBack()
     {
         Application.LoadLevel("Menu");
     }
+
+    void OnTriggerEnter(Collider other)
+    {   
+       
+        if(other.tag == "Piller")
+        {
+            lose.SetActive(true);
+        }
+
+    }
+
 }

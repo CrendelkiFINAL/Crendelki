@@ -7,21 +7,18 @@ public class Practice : MonoBehaviour
 
     public void Obstacle()
     {
-        //Application.LoadLevel("PracticeLevel");
+        Application.LoadLevel("Obstacle Course");
     }
-
 
     public void Town()
     {
-        //Application.LoadLevel("ExamLevel");
+        Application.LoadLevel("City");
     }
-
 
     public void Road()
     {
         Application.LoadLevel("RoadLevel");
     }
-
 
     public void Back()
     {
