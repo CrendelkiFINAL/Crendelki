@@ -31,7 +31,6 @@ public class EducateScript : MonoBehaviour
         {   
                 t.text = "Молодец! Теперь попробуй подлететь в указанную точку";
                 dots.SetActive(true);
-                x++;
         }
 
     }
@@ -42,7 +41,6 @@ public class EducateScript : MonoBehaviour
         if(other.tag == "Drone")
         {
             t.text = "Хорошая работа, теперь пролети через сквозь тот обруч, но смотри не задень его!";
-            x++;
             dots.SetActive(false);
             thing.SetActive(true);
         }

@@ -42,4 +42,9 @@ public class PauseMenu : MonoBehaviour
     {
         Application.LoadLevel("Menu");
     }
+
+    public void Again()
+    {
+        Application.LoadLevel(Application.loadedLevelName);
+    }
 }

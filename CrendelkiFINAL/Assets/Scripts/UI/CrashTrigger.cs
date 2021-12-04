@@ -10,7 +10,7 @@ public class CrashTrigger : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-       if(other.tag == "let")
+       if(other.tag == "Drone")
        {
             Lose.SetActive(true);
             Time.timeScale = 0f;  
@@ -24,7 +24,7 @@ public class CrashTrigger : MonoBehaviour
 
     public void Again()
     {
-        Application.LoadLevel("Test");
+        Application.LoadLevel("EducateLevel");
         Time.timeScale = 1f;
     }
 }
