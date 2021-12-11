@@ -7,6 +7,12 @@ public class PauseMenu : MonoBehaviour
     public GameObject MenuPaused;
     public static bool GameIsPaused = false;
 
+    
+    public void Start()
+    {
+        Time.timeScale = 1f;
+    }
+    
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.Escape))
@@ -41,5 +47,10 @@ public class PauseMenu : MonoBehaviour
     public void Exit()
     {
         Application.LoadLevel("Menu");
+    }
+
+    public void Again()
+    {
+        Application.LoadLevel("ExamLevel");
     }
 }
